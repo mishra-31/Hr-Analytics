@@ -1,17 +1,23 @@
 # Hr-Analytics
 The main aim of this project is to understand the attrition in HR analytically and then coming up with a  solution to the problem with the help of machine learning. 
 HR Analytics
+
 HR Analytics is an analytical study that is applied to the human resource department of an organization to understand the employees and increase their performance to get a better return on the investment made on them. With the help of HR Analytics, one can get an overall insight as per the gathered data and can make the right decisions for the employees which in result would benefit the organization.
+
 Attrition
+
 Attrition in human resources can be referred to as the voluntary or involuntary reduction in the workforce of an organization due to any internal or external factors. HR professionals are the ones who take an initiative in designing an organization’s work program, benefits, and other different factors that help in retaining the employees. A major problem due to the higher attrition rate is the cost of losing an employee and again hiring a new one by spending more money on all the initial hiring and training processes, due to which it becomes important for an organization to understand the factors leading to high attrition rates. 
 
 Understanding attrition in HR
+
 The main aim of this project is to understand the attrition in HR analytically and then coming up with a  solution to the problem with the help of machine learning. Nevertheless, it will also explain the major factors responsible for attrition so that the HR department can make the right decisions based on the analysis.
 
 What is Machine Learning?....................
+
 Machine learning is the science of getting computers to act without being explicitly programmed with the use of Data. It involves computers learning from past data to make predictions and decisions on their own.
 
 Problem statement :
+
 Due to Gradual loss in the workforce, the organizations need some methodologies to understand the factors responsible for higher attrition rates so they work on designing and planning the right work programs and benefits so that they can retain good employees.
 
 To solve this problem, we have been provided with Attrition of an employee as yes or no for several employees and multiple factors and information associated with that employee using which we aim to build a model which predicts the attrition of an employee using several input features.
