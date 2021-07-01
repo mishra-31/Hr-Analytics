@@ -18,50 +18,94 @@ To solve this problem, we have been provided with Attrition of an employee as ye
 
 Dataset : 
 The dataset given can be found from the following link : 
+
 https://github.com/dsrscientist/IBM_HR_Attrition_Rate_Analytics
+
 The dataset contains different features and information on the employee which are listed below :
+
 Age - The age of the employee ranging between 18 to 60 years
+
 Attrition: Attrition is the target feature using which we will predict the attrition of the employees.
+
 BusinessTravel: Business travel gives an insight on the traveling done by the employee, which has been categorized as Travel_Rarely, Travel_Frequently  Non-Travel.
+
 DailyRate: The rate of the amount paid daily
+
 Department: Department of the employee
+
 DistanceFromHome: Employees’ distance from home
+
 Education: Education of the employee
+
 EducationField: Field of education the employee comes from
+
 EmployeeCount: Count of employees
+
 EmployeeNumber: EMPLOYEE ID
+
 EmployeeSatisfaction: Satisfaction of the employee with the environment
+
 Gender: Gender of employee male or female
+
 HourlyRate: Hourly salary of an employee
+
 JobInvolvement: Job involvement of the employee
+
 JobLevel: Level of the job of an employee
+
 JobRole: Job role of the employee
+
 JobSatisfaction: Satisfaction level with the job
+
 MaritalStatus: Marital status of employee
+
 MonthlyIncome: Monthly salary
+
 MonthlyRate: Monthly rate 
+
 NumCompaniesWorked: Number of companies worked in 
+
 Over 18: Overage of 18 yes or no
+
 Over Time: Overtime categorized as yes or no
+
 Percent Salary Hike: Percentage of salary hike
+
 PerformanceRating: Performance rating of employee
+
 RelationshipSatisfaction: Relationship with the employer
+
 StandardHours: Standard hours worked
+
 StockOptionLevel: Stock options given to the employee
+
 TotalWorkingYears: Total years worked
+
 TrainingTimesLastYear: Hours spent in training
+
 WorkLifeBalance: Time spent between work and outside
+
 YearsAtCompany: Total number of years at the company
+
 YearsInCurrentRole: Total years in the current job role
+
 YearsSinceLastPromotion: Years since last promotion
+
 YearsWithCurrManager: Years spent with current manager
 
 More info on the following columns:
+
 Education :- 1 'Below College',  2 'College', 3 'Bachelor', 4 'Master', 5 'Doctor'
+
 EnvironmentSatisfaction :- 1 'Low', 2 'Medium', 3 'High', 4 'Very High'
+
 JobInvolvement :- 1 'Low', 2 'Medium', 3 'High',  4 'Very High'
+
 JobSatisfaction :-  1 'Low', 2 'Medium', 3 'High', 4 'Very High'
+
 PerformanceRating :- 1 'Low', 2 'Good', 3 'Excellent', 4 'Outstanding'
+
 RelationshipSatisfaction :-  1 'Low', 2 'Medium', 3 'High', 4 'Very High'
+
 WorkLifeBalance :- 1 'Bad', 2 'Good', 3 'Better', 4 'Best'
 
