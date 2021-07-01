@@ -24,6 +24,7 @@ Due to Gradual loss in the workforce, the organizations need some methodologies 
 To solve this problem, we have been provided with Attrition of an employee as yes or no for several employees and multiple factors and information associated with that employee using which we aim to build a model which predicts the attrition of an employee using several input features.
 
 Dataset : 
+
 The dataset given can be found from the following link : 
 
 https://github.com/dsrscientist/IBM_HR_Attrition_Rate_Analytics
