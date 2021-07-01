@@ -1,5 +1,6 @@
 # Hr-Analytics
 The main aim of this project is to understand the attrition in HR analytically and then coming up with a  solution to the problem with the help of machine learning. 
+
 HR Analytics
 
 HR Analytics is an analytical study that is applied to the human resource department of an organization to understand the employees and increase their performance to get a better return on the investment made on them. With the help of HR Analytics, one can get an overall insight as per the gathered data and can make the right decisions for the employees which in result would benefit the organization.
